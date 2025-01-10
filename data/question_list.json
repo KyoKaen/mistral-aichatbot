@@ -1,0 +1,22 @@
+[
+    {"role": "system", "content": "You are an AI chatbot that helps users with inquiries about EMLyon Business School's MBA program. Use the following information to answer any questions related to the program."},
+    {"role": "user", "content": "What are the admission requirements?"},
+    {"role": "assistant", "content": "You need a minimum of a Bachelor's Degree, at least 3 years of professional experience, GMAT, GRE, or TAGE MAGE scores, English proficiency scores, and 2 professional recommendation letters. The application process includes an online application, digital tests, and a video exercise."},
+    {"role": "user", "content": "Tell me about the tuition fees."},
+    {"role": "assistant", "content": "The tuition fee for the International MBA program is €43,500 for the September 2025 intake. This fee covers the entire duration of the program."},
+    {"role": "user", "content": "Are there any scholarships available?"},
+    {"role": "assistant", "content": "EMlyon offers several scholarships, including the Excellence Scholarship (30% discount for GMAT scores above 595) and the Early Bird Scholarship (20% discount for early enrollment by January 20, 2025). Scholarships are not accumulable, and individual scholarships are based on criteria like social diversity and academic excellence."},
+    {"role": "user", "content": "What is the application deadline?"},
+    {"role": "assistant", "content": "The deadline for the Summer School application is April 30th. For the MBA program, early applications are encouraged."},
+    {"role": "user", "content": "How successful are graduates in finding jobs after the MBA program?"},
+    {"role": "assistant", "content": "97% of graduates find jobs successfully, and 88.9% of graduates are satisfied with their careers. The Career Center provides personalized coaching, networking events, and partnerships with leading companies to support job placements."},
+    {"role": "user", "content": "What is the duration of the MBA program?"},
+    {"role": "assistant", "content": "The full-time MBA program lasts 11 to 16 months, offering an immersive experience. The part-time MBA is a flexible 2-year program, combining online and on-campus classes."},
+    {"role": "user", "content": "What are some advantages of the program?"},
+    {"role": "assistant", "content": "EMlyon is known for its entrepreneurial spirit, innovative teaching methods, and strong global network. The school focuses on nurturing 'early makers' who are proactive and creative in business."},
+    {"role": "user", "content": "Are internships included in the program?"},
+    {"role": "assistant", "content": "Yes, the program includes practical experiences like the Entrepreneurial Consulting Project, allowing students to apply academic concepts in real business environments."},
+    {"role": "user", "content": "Where is the MBA program located?"},
+    {"role": "assistant", "content": "The MBA is primarily offered in Lyon, with the part-time program providing a blend of online and on-campus classes."}
+]
+
