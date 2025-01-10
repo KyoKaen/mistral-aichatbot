@@ -19,6 +19,7 @@ with open('../data/prompt.txt', 'r') as file:
 with open('../data/question_list.json', 'r') as file:
     question_list = json.load(file)
 
+# Below does not work!!!
 # Train and inject data into the model
 response = client.train_model(
     model=model,
@@ -34,4 +35,3 @@ response = client.generate(
     prompt="User: " + query + "\nAssistant:"
 )
 print(response)
-
