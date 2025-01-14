@@ -1,7 +1,7 @@
 (function () {
     const defaultConfig = {
         primaryColor: '#2196F3',
-        logo: 'https://pmfm.ai/img/logo33.png',
+        logo: 'https://kyoconnectai.com/kyoconnectai_logo.jpg',
         welcomeMessage: 'Hello! How can I help you today?',
         buttonSize: '60px',
         mobileButtonSize: '50px',
